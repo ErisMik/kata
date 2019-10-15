@@ -1,3 +1,6 @@
+// Eric Mikulin, 14-10-2019
+// Leet Unscrambler
+
 #include <chrono>
 #include <cstring>
 #include <iostream>
