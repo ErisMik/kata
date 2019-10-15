@@ -1,2 +1,2 @@
-# kata
-Small practice programs used to hone some skills
+# Kata
+Small practice programs used to hone some skills!
